@@ -9,7 +9,7 @@ This project aims to analyze a vast dataset comprising over half a million recor
 Unlocking the potential within this dataset holds the key to maximizing AtliQ Hardwares' sales and profitability. By leveraging data analytics, we aim to transform challenges into opportunities and facilitate data-driven decision-making. Join us on this journey to uncover the hidden treasures within AtliQ Hardwares' sales data, enhancing their global market presence and financial health.
 
 ## Project Reports:
-
+[Customer Net Sales Performance Report](main/Customer Net Sales Performance Report.pdf)
 ## Project Highlights:
 ### Project: Sales Analysis and Reporting
 
